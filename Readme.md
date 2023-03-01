@@ -9,3 +9,9 @@
   gi get
   go run main.go
   ```
+- The app has 4 routes:
+    - GET       /book
+    - GET       /book/{id}
+    - POST      /book/{id}
+    - PUT       /book/{id}/{id}
+    - DELETE    /book/{id}/{id}
